@@ -1,6 +1,2 @@
 #!/bin/bash
-<<<<<<< HEAD
 echo $((128+$TRUEKNOWLEDGE))
-=======
-echo $(( 128 + $TRUEKNOWLEDGE ))
->>>>>>> ed2a1a8ecbc96f2014563dd893684552ee694656
